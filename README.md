@@ -33,7 +33,7 @@
 
 - [Sobre o desafio da Imersão](#sobre-imersao)
 - [Instrutores](#instrutor)
-- [Pré-Requisitos](#pré-requisitos)
+- [Pré-Requisitos](#pre-requisitos)
 - [Conclusão da Imersão](#conclusao)
 - [Licença](#licença)
 
@@ -50,6 +50,10 @@ Mas não se engane, IA vai muito além da diversão. Durante o curso, em parceri
 Prepare-se para potencializar sua carreira com o maior e mais hábil modelo de IA do Google. Afinal, a combinação entre a magia do Sítio do Picapau Amarelo e a eficácia da inteligência artificial promete transformar não apenas como você interage com os personagens, mas também enxerguei o potencial da tecnologia na minha vida profissional e pessoal. Junte-se a nós nessa jornada e deixe-se envolver pelo encanto da Imersão IA do Sítio do Picapau Amarelo.
 
 
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
 ## <a name="instrutor"> Instrutores </a>
 
 - [Fabrício Carraro](https://github.com/fabriciocarraro) - Program Manager e Autor de IA @ Alura.
@@ -61,7 +65,7 @@ Prepare-se para potencializar sua carreira com o maior e mais hábil modelo de I
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
-## <a name="pré-requisitos"></a>Pré-Requisitos
+## <a name="pre-requisitos"></a>Pré-Requisitos
 
 > [!TIP]
 > Caso queira reproduzir este projeto, você terá os seguintes pré-requisitos:
@@ -70,6 +74,7 @@ Prepare-se para potencializar sua carreira com o maior e mais hábil modelo de I
 > - [Acesse o Google API Key](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
 > - Acessa esse Colab Notebook <a href="https://colab.research.google.com/github/ClaudioMendonca-Eng/alura-imersao-ia/blob/main/Chat_Bot_Sitio_do_Picapau_Amarelo.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>
 
+[![Pré-Requisitos ilustração](./img/pre-requisitos.gif)](https://colab.research.google.com/github/ClaudioMendonca-Eng/alura-imersao-ia/blob/main/Chat_Bot_Sitio_do_Picapau_Amarelo.ipynb)
 
 
 <p align="right">
@@ -89,6 +94,11 @@ A criação de um chatbot com a Gemini API no Google Colab foi o destaque da qua
 Por fim, na quinta aula, explorei a criação de um sistema de busca semântica utilizando embeddings e a Gemini API. Aprendi a utilizar modelos de linguagem para acessar documentos e a criar embeddings, proporcionando uma experiência completa e prática na aplicação das habilidades adquiridas durante o curso.
 
 Ao longo dessa jornada, não apenas adquiri conhecimentos sobre IA e suas aplicações, mas também desenvolvi habilidades práticas que certamente impulsionarão minha carreira. Estou animado para continuar explorando e aplicando o que aprendi nesta imersão fascinante.
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
 ## <a name="licença"> Licença </a>
 
 <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
