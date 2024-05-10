@@ -36,7 +36,7 @@
 - [Pré-Requisitos](#pré-requisitos)
 - [Arquitetura do Projeto](#arquitetura-do-projeto)
   - [Diagrama Arquitetural](#diagrama-arquitetural)
-
+- [Conclusão da Imersão](#conclusao)
 - [Licença](#licença)
 
 ## <a name="sobre-imersao"></a>Sobre o desafio da Imersão
@@ -70,6 +70,19 @@ texto
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
 
+## <a name="conclusao"> Conclusão da Imersão </a>
+
+Durante minha participação na Imersão IA da Alura em parceria com o Google, mergulhei de cabeça no universo do Gemini, a poderosa IA do Google. Logo na primeira aula, fiquei impressionado ao conhecer as capacidades do Gemini, desde a criação de tabelas até a composição de poemas e geração de códigos. A exploração do Google AI Studio também ampliou meu entendimento sobre as possibilidades da IA.
+
+Aprendi técnicas avançadas de Engenharia de Prompt na segunda aula, descobrindo como construir prompts eficazes e explorando conceitos como zero-shot e few-shot prompting, além da interessante técnica Few-shot Chain-of-Thought prompting.
+
+Na terceira aula, aprofundei meu conhecimento sobre o Google AI Studio, explorando seus parâmetros e configurações para aproveitar ao máximo o suporte multimodal do Gemini. Essa experiência me aproximou do Python, especialmente através do Google Colab.
+
+A criação de um chatbot com a Gemini API no Google Colab foi o destaque da quarta aula. Aprendi a desenvolver meu próprio chatbot e até mesmo participei de uma competição de projetos, onde pude colocar em prática tudo o que aprendi.
+
+Por fim, na quinta aula, explorei a criação de um sistema de busca semântica utilizando embeddings e a Gemini API. Aprendi a utilizar modelos de linguagem para acessar documentos e a criar embeddings, proporcionando uma experiência completa e prática na aplicação das habilidades adquiridas durante o curso.
+
+Ao longo dessa jornada, não apenas adquiri conhecimentos sobre IA e suas aplicações, mas também desenvolvi habilidades práticas que certamente impulsionarão minha carreira. Estou animado para continuar explorando e aplicando o que aprendi nesta imersão fascinante.
 ## <a name="licença"> Licença </a>
 
 <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
