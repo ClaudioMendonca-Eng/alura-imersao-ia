@@ -1,10 +1,9 @@
 # Alura Imersao IA - 2024
-| ![Alura logo](https://caminho/logoalura.png) |
+| ![Alura logo](./img/logo_imersao.png) |
 |:---:|
 | Este repositório contém meu projeto desenvolvido durante a Imersão IA, utilizando o Gemini e o Google AI Studio. O projeto foi criado para o desafio da Imersão, relacionado às aulas 4 e 5, e utiliza a API Key do Google. Participe da votação no Discord da Imersão IA e ajude este projeto a se destacar!|
-| <a href="https://www.youtube.com/video" target="_blank"><img style="margin: 10px" height="200" width="200" src="https://caminho/logo.png" alt="Imagem Imersao IA"/></a> |
+| <a href="https://www.youtube.com/video" target="_blank"><img style="margin: 10px" height="300" width="500" src="./img/Wallpaper_Desktop.png" alt="Imagem Imersao IA"/></a> |
 | [![Apresentação](./docs/src/img/imagemapresentacao.gif)](https://claudiomendonca-eng.github.io/alura-imersao-ia/) |
-
 
 > [!IMPORTANT]
 > DIREITOS AUTORAIS - DOMÍNIO PÚBLICO
@@ -28,4 +27,22 @@
   - As ilustrações originais dos livros ainda são protegidas por direitos autorais. Para usá-las, você precisará obter a permissão dos detentores dos direitos.
   - É sempre importante citar a fonte quando utilizar qualquer material do Sítio do Picapau Amarelo, mesmo que a obra esteja em domínio público.
 </details>
-  
+
+## Índice
+<a id="topo"></a>
+
+- [Sobre o desafio da Imersão](#sobre-imersao)
+- [Instrutores](#instrutor)
+- [Pré-Requisitos](#pré-requisitos)
+- [Arquitetura do Projeto](#arquitetura-do-projeto)
+  - [Diagrama Arquitetural](#diagrama-arquitetural)
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+## <a name=""> Licença </a>
+
+<a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Copyright © 2024 <a href="https://www.claudiomendonca.eng.br" target="_blank">ClaudioMendonca.eng.br</a> . 
