@@ -3,7 +3,7 @@
 |:---:|
 | Este repositório contém meu projeto desenvolvido durante a Imersão IA, utilizando o Gemini e o Google AI Studio. O projeto foi criado para o desafio da Imersão, relacionado às aulas 4 e 5, e utiliza a API Key do Google. Participe da votação no Discord da Imersão IA e ajude este projeto a se destacar!|
 | <a href="https://youtu.be/iwt4bOIHy7s?si=dib0d2ivebiSSqPF&t=2" target="_blank"><img style="margin: 10px" height="300" width="500" src="./img/Wallpaper_Desktop.png" alt="Imagem Imersao IA"/></a> |
-| [![Apresentação](./docs/src/img/imagemapresentacao.gif)](https://claudiomendonca-eng.github.io/alura-imersao-ia/) |
+| [![Apresentação](./img/imagemapresentacao.gif)](https://colab.research.google.com/github/ClaudioMendonca-Eng/alura-imersao-ia/blob/main/Chat_Bot_Sitio_do_Picapau_Amarelo.ipynb) |
 
 > [!IMPORTANT]
 > DIREITOS AUTORAIS - DOMÍNIO PÚBLICO
@@ -34,14 +34,20 @@
 - [Sobre o desafio da Imersão](#sobre-imersao)
 - [Instrutores](#instrutor)
 - [Pré-Requisitos](#pré-requisitos)
-- [Arquitetura do Projeto](#arquitetura-do-projeto)
-  - [Diagrama Arquitetural](#diagrama-arquitetural)
 - [Conclusão da Imersão](#conclusao)
 - [Licença](#licença)
 
 ## <a name="sobre-imersao"></a>Sobre o desafio da Imersão
 
-texto
+Em um universo onde a criatividade se funde com a tecnologia, surge um projeto revolucionário: 
+
+A Imersão IA do Sítio do Picapau Amarelo. Imagine-se imerso em um mundo onde a magia das histórias ganha vida por meio da inteligência artificial, onde os personagens amados de Monteiro Lobato estão ao seu alcance, prontos para conversar, contar histórias e até mesmo brincar.
+
+Meu projeto pretende unir a nostalgia e o encantamento do Sítio do Picapau Amarelo com a vanguarda da IA, oferecendo uma experiência única e inovadora. Com um chatbot especialmente desenvolvido, você terá a oportunidade de interagir com Emília, Narizinho, Pedrinho, Visconde de Sabugosa e todos os outros habitantes desse lugar mágico.
+
+Mas não se engane, IA vai muito além da diversão. Durante o curso, em parceria com a Alura e o Google, eu mergulhei de cabeça no universo do Gemini, e aprendir na prática como desenvolver projetos do zero no Google AI Studio. Seja para contar histórias, jogar, aprender ou simplesmente se encantar, nosso chatbot com IA estará lá para te acompanhar em cada passo do caminho.
+
+Prepare-se para potencializar sua carreira com o maior e mais hábil modelo de IA do Google. Afinal, a combinação entre a magia do Sítio do Picapau Amarelo e a eficácia da inteligência artificial promete transformar não apenas como você interage com os personagens, mas também enxerguei o potencial da tecnologia na minha vida profissional e pessoal. Junte-se a nós nessa jornada e deixe-se envolver pelo encanto da Imersão IA do Sítio do Picapau Amarelo.
 
 
 ## <a name="instrutor"> Instrutores </a>
@@ -78,7 +84,7 @@ Aprendi técnicas avançadas de Engenharia de Prompt na segunda aula, descobrind
 
 Na terceira aula, aprofundei meu conhecimento sobre o Google AI Studio, explorando seus parâmetros e configurações para aproveitar ao máximo o suporte multimodal do Gemini. Essa experiência me aproximou do Python, especialmente através do Google Colab.
 
-A criação de um chatbot com a Gemini API no Google Colab foi o destaque da quarta aula. Aprendi a desenvolver meu próprio chatbot e até mesmo participei de uma competição de projetos, onde pude colocar em prática tudo o que aprendi.
+A criação de um chatbot com a Gemini API no Google Colab foi o destaque da quarta aula. Foi onde aprendi a desenvolver meu próprio chatbot e tiver essa ideia do CHATBOT do Sítio do Picapau Amarelo, onde pude colocar em prática tudo o que aprendi.
 
 Por fim, na quinta aula, explorei a criação de um sistema de busca semântica utilizando embeddings e a Gemini API. Aprendi a utilizar modelos de linguagem para acessar documentos e a criar embeddings, proporcionando uma experiência completa e prática na aplicação das habilidades adquiridas durante o curso.
 
