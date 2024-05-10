@@ -11,7 +11,7 @@
 > Explore as infinitas possibilidades e divirta-se com as aventuras do Sítio do Picapau Amarelo!
 > Compartilhe essa informação com seus amigos e familiares para que todos possam aproveitar essa oportunidade incrível!
 <details>
-  <summary>Mais detalhes</summary>
+  <summary>📝 Mais detalhes</summary>
   O Sítio do Picapau Amarelo em Domínio Público: Uma Aventura Aberta à Todos!
   
   As obras de Monteiro Lobato, incluindo o Sítio do Picapau Amarelo, entraram em domínio público no dia 1º de janeiro de 2019! Isso significa que você é livre para:
