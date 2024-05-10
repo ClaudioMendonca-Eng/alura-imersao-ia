@@ -73,6 +73,7 @@ Prepare-se para potencializar sua carreira com o maior e mais hábil modelo de I
 > - [Acesse o Google AI Studio](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
 > - [Acesse o Google API Key](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
 > - Acessa esse Colab Notebook <a href="https://colab.research.google.com/github/ClaudioMendonca-Eng/alura-imersao-ia/blob/main/Chat_Bot_Sitio_do_Picapau_Amarelo.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>
+> - ⏬ Explicação da instalação no GIF abaixo:
 
 [![Pré-Requisitos ilustração](./img/pre-requisitos.gif)](https://colab.research.google.com/github/ClaudioMendonca-Eng/alura-imersao-ia/blob/main/Chat_Bot_Sitio_do_Picapau_Amarelo.ipynb)
 
