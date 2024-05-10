@@ -1,6 +1,9 @@
-# alura-imersao-ia
-Este repositório contém meu projeto desenvolvido durante a Imersão IA, utilizando o Gemini e o Google AI Studio. O projeto foi criado para o desafio da Imersão, relacionado às aulas 4 e 5, e utiliza a API Key do Google. Participe da votação no Discord da Imersão IA e ajude este projeto a se destacar!
-
+# Alura Imersao IA - 2024
+| ![Alura logo](https://caminho/logoalura.png) |
+|:---:|
+| Este repositório contém meu projeto desenvolvido durante a Imersão IA, utilizando o Gemini e o Google AI Studio. O projeto foi criado para o desafio da Imersão, relacionado às aulas 4 e 5, e utiliza a API Key do Google. Participe da votação no Discord da Imersão IA e ajude este projeto a se destacar!|
+| <a href="https://www.youtube.com/video" target="_blank"><img style="margin: 10px" height="200" width="200" src="https://caminho/logo.png" alt="Imagem Imersao IA"/></a> |
+| [![Apresentação](./docs/src/img/imagemapresentacao.gif)](https://claudiomendonca-eng.github.io/alura-imersao-ia/) |
 
 
 > [!IMPORTANT]
