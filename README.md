@@ -35,6 +35,7 @@
 - [Instrutores](#instrutor)
 - [Pré-Requisitos](#pre-requisitos)
 - [Conclusão da Imersão](#conclusao)
+- [Certificados](#certificados)
 - [Licença](#licença)
 
 ## <a name="sobre-imersao"></a>Sobre o desafio da Imersão
@@ -95,6 +96,15 @@ A criação de um chatbot com a Gemini API no Google Colab foi o destaque da qua
 Por fim, na quinta aula, explorei a criação de um sistema de busca semântica utilizando embeddings e a Gemini API. Aprendi a utilizar modelos de linguagem para acessar documentos e a criar embeddings, proporcionando uma experiência completa e prática na aplicação das habilidades adquiridas durante o curso.
 
 Ao longo dessa jornada, não apenas adquiri conhecimentos sobre IA e suas aplicações, mas também desenvolvi habilidades práticas que certamente impulsionarão minha carreira. Estou animado para continuar explorando e aplicando o que aprendi nesta imersão fascinante.
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+## <a name="certificados"></a>Certificados
+
+- IMERSÃO INTELIGÊNCIA ARTIFICIAL 2ª EDIÇÃO | Alura 2024
+
+[![Certificado](img/01_certificado.png)](https://cursos.alura.com.br/user/claudioeduardoo)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
